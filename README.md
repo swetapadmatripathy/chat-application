@@ -1,2 +1,2 @@
 # chat-application
-Created a chat application for desktop
+Chat application for Desktop by Swetapadma Tripathy
